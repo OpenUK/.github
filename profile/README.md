@@ -1,4 +1,4 @@
-![Welcome Image - State of Open Con 2024 performers twirling lights making the OpenUK logo](profile/openuk_performers.jpg)
+![Welcome Image - State of Open Con 2024 performers twirling lights making the OpenUK logo](openuk_performers.jpg)
 
 # Welcome
 
